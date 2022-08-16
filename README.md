@@ -34,4 +34,7 @@ The TCP stack is a barebones implementation of a TCP/IP stack. It makes many ass
 # How to use
 Don't
 
+## Thanks
+Thanks to @aramperes for their work on [onetun](https://github.com/aramperes/onetun). It was used as inspiration for this project.
+
 ETA: July of 2069
